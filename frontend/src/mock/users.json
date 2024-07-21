@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "_id": "66972dad2bac51c77cc80bd5",
+      "name": "John Herman",
+      "email": "john.herman@gmail.com",
+      "phone": "9 88 90 30",
+      "subscribed": [
+        "Finance"
+      ],
+      "channels": [
+        "SMS",
+        "Email"
+      ]
+    },
+    {
+      "_id": "66972e6d2bac51c77cc80bd6",
+      "name": "Elizabeth Fin",
+      "email": "eliza.fin@gmail.com",
+      "phone": "1 76 98 78",
+      "subscribed": [
+        "Finance",
+        "Movies"
+      ],
+      "channels": [
+        "SMS",
+        "Email",
+        "Push Notification"
+      ]
+    },
+    {
+      "_id": "66972e962bac51c77cc80bd7",
+      "name": "Teruo Bazaro",
+      "email": "teruo.bazaro@gmail.com",
+      "phone": "1 64 57 29",
+      "subscribed": [
+        "Sports",
+        "Movies"
+      ],
+      "channels": [
+        "Push Notification"
+      ]
+    }
+  ]
+}
